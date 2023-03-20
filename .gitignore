@@ -82,6 +82,5 @@ index.android.bundle
 *.hprof
 *.jks
 google-play.json
-google-services.json
 
 android/app/release
