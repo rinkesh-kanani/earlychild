@@ -1,0 +1,43 @@
+  {
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-native/all",
+    "plugin:react-hooks/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:jest/recommended"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true,
+    "browser": true,
+    "es2020": true,
+    "react-native/react-native": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    },
+    "import/resolver": {
+      "babel-module": {}
+    },
+    "import/ignore": ["react-native"]
+  },
+  "rules": {
+    "react/prop-types": 0,
+    "react/display-name": 0,
+    "react-native/sort-styles": 0,
+    "react-native/no-inline-styles": 0,
+    "react-native/no-raw-text": 0,
+    "import/no-named-as-default-member": 0,
+    "import/no-named-as-default": 0,
+    "import/namespace": 0,
+    "import/no-cycle": 2,
+    // "no-console": 2,
+    "no-import-assign": 0
+  }
+}
