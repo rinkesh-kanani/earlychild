@@ -3,3 +3,6 @@ Early Child is a sophisticated mobile application tailored to enhance parental e
 • The app Prioritized children's needs by delivering tailored activities and developmental milestones for every child, ensuring an unparalleled and enriching experience with quantifiable improvements in educational journey.
 • The Early Child app offers a dynamic range of features, including activities, educational articles, immersive workshops, and comprehensive developmental milestones, ensuring a holistic user experience.
 • Early Child is developed using cutting-edge technologies, including React Native, React-Redux, Firebase, social login integration, and Confluent, ensuring a seamless and feature-rich user experience.
+
+https://github.com/rinkesh-kanani/earlychild/assets/106172435/63a42c63-0c28-4cdb-8482-b053339345a5
+
